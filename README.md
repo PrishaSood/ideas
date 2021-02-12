@@ -1,1 +1,3 @@
 # ideas
+
+## Discord Project
